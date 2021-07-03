@@ -1,0 +1,78 @@
+
+
+.nav-bar{
+    width: 100%;
+    background-color: rgb(8, 69, 97);
+    overflow: auto;
+    text-align: right;
+
+}
+
+.nav-bar a{
+    float: left;
+    padding: 20px;
+    text-decoration: none;
+    color: silver;
+    text-align: center;
+    font-size: 17px;
+    width: 8%;
+    
+}
+.nav-bar a:hover{
+    background-color: tomato;
+}
+
+.nav-bar a.active{
+    background-color: yellow;
+}
+
+.slider{
+    background-image: url("http://ktspltd.com/images/home-bg-slideshow2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    height: 450px;
+    width: auto;
+    font-size: 25px;
+    text-align: justify;
+    padding: 40px 750px 70px 70px;
+
+}
+
+h2{
+    color: rgb(8, 69, 97);
+}
+
+.about{
+
+    background-image: url("https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif");
+    background-repeat: no-repeat;
+    background-position: right;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-align: justify;
+    padding-left: 60px;
+    padding-right: 750px;
+}
+
+h4{
+    color: rgba(146, 172, 170, 0.384);
+}
+
+#button{
+    font-size: 22px;
+}
+
+.why-us{
+    background-color: teal;
+    padding: 20px 50px 10px 10px;
+    text-align: justify;
+    text-align: center;
+    margin: 10px 750px 10px 50px;
+    border-radius: 50px 10px 10px 10px;
+}
+
+.why-img{
+    background-color: thistle;
+    margin: 50px 450px 10px  450px;
+}
